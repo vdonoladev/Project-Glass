@@ -1,2 +1,6 @@
-# curso-html5-projeto-glass
-Curso do Site "Curso em Vídeo" de HTML5, CSS3 e JavaScript (Curso Antigo - Tecnologias Antigas - 2013)
+#project-glass
+Criação de Site
+
+Todo material deste repositório é de um curso online que estou fazendo na Curso em Vídeo.<br/>
+Site http://www.cursoemvideo.com <br/>
+Professor Gustavo Guanabara.
