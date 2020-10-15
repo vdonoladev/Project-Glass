@@ -18,6 +18,3 @@
 <p align>
   <img src="https://user-images.githubusercontent.com/56196766/96175128-cd142c00-0f00-11eb-955f-a2e52a26c57f.png">
 </p>
-
-<p>O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a interface proposta.</p>
-
