@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>
 	<img src="https://user-images.githubusercontent.com/56196766/96174201-54f93680-0eff-11eb-90c2-a72272df3b9c.jpg" height="49px">
 </h1>
@@ -20,3 +21,10 @@
 </p>
 
 O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a interface proposta.
+=======
+Criação de Site
+
+Todo material deste repositório é de um curso online que estou fazendo na Curso em Vídeo.<br/>
+Site http://www.cursoemvideo.com <br/>
+Professor Gustavo Guanabara.
+>>>>>>> 74f89e11b6ce6561cedd47688e6d41d6043acf5b
