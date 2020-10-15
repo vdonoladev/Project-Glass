@@ -3,13 +3,15 @@
 	<img src="https://user-images.githubusercontent.com/56196766/96176141-54ae6a80-0f02-11eb-8c52-b69b2cd81a3e.jpg" height="49px">
 </h1>
 
-<h2>
+<h2 align="center">
   Site sobre o Google Glass
   <br>
   Projeto do
   <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o" target="_blank">
-  curso </a> gratuito de HTML5, CSS3 e JS do professor <a href="https://github.com/gustavoguanabara" target="_blank">
-  Gustavo Guanabara</a>, de 2013.
+  curso </a> gratuito de HTML5, CSS3 e JS
+  <br>
+  do professor <a href="https://github.com/gustavoguanabara" target="_blank">
+  Gustavo Guanabara</a>, de 2013
   <br>
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
 </h2>
